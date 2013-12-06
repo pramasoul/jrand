@@ -13,6 +13,6 @@ int main() {
             sum += 1.0 / n;
         }
         j++;
-        printf("Sum 1/n for in in [1..%d000001] = %f\r\n", j, sum);
+        printf("Sum 1/n for in in [1..%d000000] = %f\r\n", j, sum);
     }
 }
